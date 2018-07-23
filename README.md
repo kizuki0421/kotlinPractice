@@ -6,22 +6,22 @@
 
 ## Practice1.kt
 >Hello,world<br>
->基本文法
->数値型
->文字列型
->配列型
->条件分岐
+>基本文法<br>
+>数値型<br>
+>文字列型<br>
+>配列型<br>
+>条件分岐<br>
 >
 
 ## Practice2.kt Practice3.kt
->ループ
+>ループ<br>
 >ジャンプ(ラベル)
 
 ## Practice4.kt
 >関数
 
 ## Practice5.kt Practice6.kt
->ラムダ式
+>ラムダ式<br>
 >インライン関数
 
 ## Practice7.kt ~ Practice11.kt
@@ -65,8 +65,8 @@
 >コレクション
 
 ## Practice27.kt
->範囲
->型チェック
+>範囲<br>
+>型チェック<br>
 >キャスト
 
 ## Practice28.kt
