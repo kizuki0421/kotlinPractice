@@ -1,3 +1,4 @@
+//南ことりと星空凛のKotlin入門 Part34
 import com.example.html.*
  
 fun main(args: Array<String>) {
