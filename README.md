@@ -5,7 +5,7 @@
 >
 
 ## Practice1.kt
->Hello,world
+>Hello,world<br>
 >基本文法
 >数値型
 >文字列型
