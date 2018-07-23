@@ -6,16 +6,16 @@
 
 ## Practice1.kt
 >Hello,world
-基本文法
-数値型
-文字列型
-配列型
-条件分岐
+>基本文法
+>数値型
+>文字列型
+>配列型
+>条件分岐
 >
 
 ## Practice2.kt Practice3.kt
 >ループ
-ジャンプ(ラベル)
+>ジャンプ(ラベル)
 
 ## Practice4.kt
 >関数
